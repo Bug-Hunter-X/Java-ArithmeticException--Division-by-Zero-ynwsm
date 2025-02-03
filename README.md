@@ -1,0 +1,3 @@
+# Java ArithmeticException: Division by Zero
+
+This repository demonstrates a common Java error: the `ArithmeticException` thrown when dividing by zero.  The `bug.java` file contains the erroneous code, while `bugSolution.java` provides a corrected version.  The error is a runtime exception, meaning it occurs during program execution rather than during compilation. This example highlights the importance of handling potential division by zero scenarios using appropriate error checking and conditional logic.
